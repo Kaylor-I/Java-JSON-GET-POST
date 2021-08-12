@@ -179,11 +179,3 @@ If your answer is correct, the API will return 200 OK. If the request is malform
 If you get a 5xx response, let us know and we’ll help you out.
 
 The candidate.hubteam.com domain is set up with a permissive cross-origin policy, so you can POST to it from any location in a browser if you choose to implement in an in-browser JS solution.
-
-Evaluation
-When you’re done, this page will update with a form to upload your code. We’ll evaluate you based on three things:
-
-First and foremost, if you complete the project within three hours.
-Next, the time from when you click the start button below to the time you submit a correct solution.
-Finally, the quality of code you submit. We’re looking for simplicity, clarity and readability over cleverness or flexbility.
-We think you should be able to complete this project in a single sitting, so try to allocate a single block if you can.
